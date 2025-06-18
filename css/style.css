@@ -264,6 +264,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .about-profile-img {
+    margin-top: 80px;
     width: 100%;
     max-width: 350px;
     border-radius: 15px;
@@ -291,7 +292,7 @@ h1, h2, h3, h4, h5, h6 {
 .detail-item {
     display: flex;
     align-items: flex-start;
-    gap: 1rem;
+    gap: 1rem; 
 }
 
 .detail-item i {

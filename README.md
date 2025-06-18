@@ -47,7 +47,7 @@ Each page is designed using **modern UI/UX principles** and built entirely with 
 |----------------------|-----------------------------------------------------------|---------------|
 | C Calculator          | A basic calculator app built using `switch-case` in C    | C Language    |
 | C++ Tic Tac Toe       | Command-line 2-player game using simple logic             | C++           |
-| Portfolio Clone       | A minimal portfolio clone using only HTML and CSS         | HTML, CSS     |
+| Weather App           | A Simple Weather app using api                            | HTML, CSS     |
 
 Each project includes buttons for **View Code** and **Live Demo**, currently linked with `#` as placeholders.
 
